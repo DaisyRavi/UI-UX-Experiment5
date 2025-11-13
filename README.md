@@ -36,9 +36,11 @@ Beginners feel overwhelmed by technical workout data.
 Problem Statements:
 
 Primary Problem:
+
 “Busy working professionals need a way to track their daily workouts and progress because their tight schedules make it hard to stay consistent, which results in poor fitness habits and decreased motivation.”
 
 Secondary Problem:
+
 “Beginner fitness users need a simple way to visualize their fitness journey because complicated charts and data discourage them, which results in abandoning fitness goals.”
 
 2. Identifying Appropriate Research Methods
@@ -160,6 +162,7 @@ Overwhelming product variety.
 Time wasted reordering favorite products.
 
 Problem Statements:
+
 
 Primary Problem:
 “Online shoppers need a way to find clothes that fit their size accurately because size charts vary across brands, which results in frequent returns and frustration.”
