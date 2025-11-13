@@ -5,7 +5,7 @@
 ## Aim:
 To test the usability and user experience of the FitLife app’s onboarding and workout logging process, and to analyze the usability of the StyleEase e-commerce platform
 
-## Algorithm:
+## Algorithm:https://github.com/pulls
 1.Select 10–15 users based on developed personas.
 2.Assign 3 core usability tasks:
 3.Create an account (Onboarding process)
@@ -143,8 +143,8 @@ Improve both physical and mental well-being.
 
 Prefers soft colors and guided routines.
 
-🛍️ Scenario 2: E-Commerce Platform — “StyleEase”
-1. Identifying and Writing Problem Statements
+** Scenario 2: E-Commerce Platform — “StyleEase”
+**1. Identifying and Writing Problem Statements
 Overview:
 
 “StyleEase” is an e-commerce fashion platform that helps users find well-fitting, high-quality clothing easily, with quick checkout and minimal hassle.
@@ -256,7 +256,7 @@ Wants to appear professional and stylish.
 
 Prefers efficiency and reliability.
 
-✅ Summary Comparison Table
+**Summary Comparison Table**
 Aspect            ||    Health App (FitLife)                      ||	E-Commerce (StyleEase)
 Goal	            ||    Build healthy habits & motivate users	    ||  Improve fit accuracy & simplify shopping
 Primary 
